@@ -1,9 +1,10 @@
 ---
 layout: post
-tittle: "Compilando programas em C"
-tags: [programação, geral]
+title: "Compilando programas em C"
+author: "Jonathan Abreu"
+categories: journal
+tags: [programação, linguagemC]
 image: https://source.unsplash.com/user/golakka/likes
-
 ---
 Uma dúvida que assola a muitos estudantes da linguagem C nos seus primeiros contatos com a linguagem, é quando precisam compilar um programa em C sem a utilização de uma IDE, principalmente em sistemas Linux.
 
