@@ -20,7 +20,7 @@ Mas se o usuário precisar modificar apenas um dos arquivos ele terá que compil
 $ gcc -c prog1.c
 {% endhighlight %}
 
-Este comando só compila o programa, não realizando a linkedição do arquivo, e como resultado cria um arquivo objeto com extensão .o. Dessa forma vc detecta erros de sintaxe sem ter que compilar muitos arquivos. Para mais detalhes sobre as fases de compilação dê uma olhada na matéria [Compilando programas em C]({{ site.github.url }}{{ % 2018-01-06-Compilando-programas-em-C %}})
+Este comando só compila o programa, não realizando a linkedição do arquivo, e como resultado cria um arquivo objeto com extensão .o. Dessa forma vc detecta erros de sintaxe sem ter que compilar muitos arquivos. Para mais detalhes sobre as fases de compilação dê uma olhada na matéria [Compilando programas em C]({{ site.github.url }}{ post_url % 2018-01-06-Compilando-programas-em-C %})
 Em seguida o usuário terá apenas que montar os arquivos objetos:
 
 {% highlight bash %}
