@@ -3,7 +3,7 @@ layout: post
 tittle: "Usando make em C"
 author: "Jonathan Abreu"
 tags: [geral, programação]
-image: 'https://source.unsplash.com/user/lucabravo/XJXWbfSo2f0'
+image: 'https://source.unsplash.com/user/lucabravo/XJXWbfSo2f0 '
 ---
 
 O utilitário **make** é util para a compilação de muitos arquivos de maneira automática, facilitando casos em que um executável consiste em muitos arquivos para sua criação.
