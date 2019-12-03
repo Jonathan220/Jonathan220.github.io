@@ -1,18 +1,13 @@
 ---
 layout: page
-title: Welcome to Lagrange!
+title: Sobre
+image: 'https://source.unsplash.com/wn-KYaHwcis/800x400'
 ---
 
-Lagrange is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog. Below you can find everything you need to get started.
+Antes de mais nada deixe me apresentar: sou Jonathan Abreu, estudante de Análise e desenvolvimento de sistemas. Adoro programação e aprender coisas novas. Hoje lhe apresento a nova versão do meu blog, que está de cara nova. Pretendo postar diversos assuntos relacionados com tecnologia.
 
-### Getting Started
+Este blog foi criado com a intenção de demonstrar alguns dos conhecimentos que domino na área de TI. Períodicamente posto assuntos que estudei a fundo e tento explicá-los da maneira mais simples possível. Isso me ajuda a consolidar meus conhecimentos sobre o assunto, portanto esse acaba também sendo um método de estudo meu.
 
-[Getting Started](): getting started with installing Lagrange, whether you are completely new to using Jekyll, or simply just migrating to a new Jekyll theme.
+Espero que goste de minhas matérias claro leitor, apesar de ser um método de estudo não deixa de ser um bom material de apredizagem.
 
-### Example Content
-
-[Text and Formatting]()
-
-### Questions?
-
-This theme is completely free and open source software. You may use it however you want, as it is distributed under the [MIT License](http://choosealicense.com/licenses/mit/). If you are having any problems, any questions or suggestions, feel free to [tweet at me](https://twitter.com/intent/tweet?text=My%question%about%Lagrange%is:%&amp;via=paululele), or [file a GitHub issue](https://github.com/lenpaul/lagrange/issues/new).
+Esse blog foi construido  usando [jekyll](https://jekyllrb.com/), e o tema foi baixado do site [jekyll themes](http://jekyllthemes.org/) e adatado por mim, seu autor original é o [Legrange](https://github.com/LeNPaul/Lagrange).

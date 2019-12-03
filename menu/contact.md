@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Contact
+title: Contato
 ---
 
-If you are having any problems, any questions or suggestions, feel free to [tweet at me](https://twitter.com/intent/tweet?text=%40paululele), or [file a GitHub issue](https://github.com/lenpaul/lagrange/issues/new)
+Se você tiver qualquer problema, duvida ou sugestão, sinta-se livre para me seguir no [twtter]() ou vá ao meu [github](https://github.com/jonathan220).
